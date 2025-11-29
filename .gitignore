@@ -1,11 +1,4 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-.kotlin
-.idea
-Bmi.iml
-.idea/
-Bmi.iml
 .idea
 Bmi.iml
